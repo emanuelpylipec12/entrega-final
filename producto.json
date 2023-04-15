@@ -1,0 +1,63 @@
+[
+    {
+        "id": "perfume-01",
+        "titulo": "Perfume",
+        "imagen": "./imagenes/shampoocuatro.jpg",
+        "categoria": {
+            "nombre": "perfumes",
+            "id": "perfumes"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "shampoo-4",
+        "titulo": "Shampoo cuatro",
+        "imagen": "./imagenes/perfume.jpg",
+        "categoria": {
+            "nombre": "shampoo",
+            "id": "shampoo"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "shampoo-1",
+        "titulo": "Shampoo siliconado",
+        "imagen": "./imagenes/shampoosili.jpg",
+        "categoria": {
+            "nombre": "shampoo",
+            "id": "shampoo"
+        },
+        "precio": 5600
+    },
+    {
+        "id": "cera-1",
+        "titulo": "Cera",
+        "imagen": "./imagenes/cerauno.jpg",
+        "categoria": {
+            "nombre": "ceras",
+            "id": "ceras"
+        },
+        "precio": 2500
+    },
+    {
+        "id": "cera-2",
+        "titulo": "Cera polish",
+        "imagen": "./imagenes/cerapolish.png",
+        "categoria": {
+            "nombre": "ceras",
+            "id": "ceras"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "servicio-1",
+        "titulo": "Lvado premium",
+        "imagen": "./imagenes/aitolavando.jpg",
+        "categoria": {
+            "nombre": "shampoo",
+            "id": "shampoo"
+        },
+        "precio": 26000
+    }
+    
+]
