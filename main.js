@@ -64,6 +64,7 @@ botonesCategorias.forEach(boton => {
     })
 });
 
+
 function actualizarBotonesAgregar() {
     botonesAgregar = document.querySelectorAll(".producto-agregar");
 
@@ -93,7 +94,7 @@ function agregarAlCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right, #4b33a8, #785ce9)",
+          background: " #ad3232",
           borderRadius: "2rem",
           textTransform: "uppercase",
           fontSize: ".75rem"
